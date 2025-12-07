@@ -1,11 +1,11 @@
-<h1 align="left">Nuzhat Tabassum | Data Scientist</h1>
+# Nuzhat Tabassum | Data Scientist
 
+Sophmore at University of Texas at Dallas, studying Computer Science
 
-<h3 align="center">Sophmore at University of Texas at Dallas, studying Computer Science</h3>
-<p>- 🎓 Computer Science at University of Texas at Dallas</p>
-<p>- 💻 Interests: Machine Learning, Cloud Computing, Data Engineering</p>
-<p>- 🌱 Currently learning: Python for Data Science, AWS, TensorFlow</p>
-<p>- 📫 Reach me: https://www.linkedin.com/in/nuzhattabassum42/ </p>
+- 🎓 Computer Science at University of Texas at Dallas
+- 💻 Interests: Machine Learning, Cloud Computing, Data Engineering
+- 🌱 Currently learning: Python for Data Science, AWS, TensorFlow
+- 📫 Reach me: https://www.linkedin.com/in/nuzhattabassum42/
 
 - 🔭 I’m currently working on **EduQuery: Enhancing Student Learning with LLM-Powered Insights**
 
