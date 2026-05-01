@@ -7,7 +7,7 @@ Sophmore at University of Texas at Dallas, studying Computer Science
 - 🌱 Currently learning: Python for Data Science, AWS, TensorFlow
 - 📫 Reach me: https://www.linkedin.com/in/nuzhattabassum42/
 
-- 🔭 I’m currently working on **EduQuery: Enhancing Student Learning with LLM-Powered Insights**
+- 🔭 I’m currently working on **RIDE: Converting projects from Ant build to Maven**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
